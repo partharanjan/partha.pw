@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Partha Ranjan Nayak</h1>
-<h3 align="center">A passionate Software Engineer | Mentor | YouTuber </h3>
+<h3 align="center">A passionate 🧑🏾‍💻Software Engineer | 🧛 Mentor | 🎥 YouTuber </h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learing & Web 3.0**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Angular, React Native, Next Js, Node Js, .net Core**
 
-- 💬 Watch my Programming Series on **https://www.youtube.com/c/ParthaRanjanNayak**
+- 🎥 Watch me on **https://www.youtube.com/c/ParthaRanjanNayak**
 
 - 📫 How to reach me **partharanjan.nayak@gmail.com**
 
