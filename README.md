@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Angular, React Native, Next Js, Node Js, .net Core**
 
-- 💬 What my Programming Series on **https://www.youtube.com/c/ParthaRanjanNayak**
+- 💬 Watch my Programming Series on **https://www.youtube.com/c/ParthaRanjanNayak**
 
 - 📫 How to reach me **partharanjan.nayak@gmail.com**
 
